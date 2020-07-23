@@ -1,0 +1,685 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 977120,
+            "type": "VEC3",
+            "max": [
+                0.5557479858398438,
+                2.1635849475860597,
+                0.5570869445800781
+            ],
+            "min": [
+                -0.5557479858398438,
+                0.5521619915962219,
+                -0.5570869445800781
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 977120,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 977120,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 1465680,
+            "type": "SCALAR",
+            "max": [
+                977119.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 1404288,
+            "type": "VEC3",
+            "max": [
+                0.4733249545097351,
+                2.120508909225464,
+                0.4638040065765381
+            ],
+            "min": [
+                -0.45486798882484438,
+                0.7238089442253113,
+                -0.4705730080604553
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 1404288,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 1404288,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 2106432,
+            "type": "SCALAR",
+            "max": [
+                1404287.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 1960,
+            "type": "VEC3",
+            "max": [
+                0.2071152776479721,
+                0.38483890891075137,
+                0.22807230055332185
+            ],
+            "min": [
+                -0.1990303248167038,
+                0.0,
+                -0.17807330191135407
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 1960,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 1960,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 11232,
+            "type": "SCALAR",
+            "max": [
+                1959.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 11712,
+            "type": "VEC3",
+            "max": [
+                0.01801498979330063,
+                1.823975920677185,
+                0.027421997860074045
+            ],
+            "min": [
+                -0.016613010317087175,
+                0.3228919804096222,
+                -0.007347999606281519
+            ]
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 11712,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5126,
+            "count": 11712,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 17568,
+            "type": "SCALAR",
+            "max": [
+                11711.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 16,
+            "componentType": 5126,
+            "count": 4736,
+            "type": "VEC3",
+            "max": [
+                0.1866990029811859,
+                0.38484299182891848,
+                0.20702297985553742
+            ],
+            "min": [
+                -0.18001201748847962,
+                0.34756898880004885,
+                -0.1605599969625473
+            ]
+        },
+        {
+            "bufferView": 17,
+            "componentType": 5126,
+            "count": 4736,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 18,
+            "componentType": 5126,
+            "count": 4736,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 19,
+            "componentType": 5125,
+            "count": 7104,
+            "type": "SCALAR",
+            "max": [
+                4735.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 11725440,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 11725440,
+            "byteLength": 11725440,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 23450880,
+            "byteLength": 7816960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 31267840,
+            "byteLength": 5862720,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 37130560,
+            "byteLength": 16851456,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 53982016,
+            "byteLength": 16851456,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 70833472,
+            "byteLength": 11234304,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 82067776,
+            "byteLength": 8425728,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90493504,
+            "byteLength": 23520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90517024,
+            "byteLength": 23520,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90540544,
+            "byteLength": 15680,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90556224,
+            "byteLength": 44928,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90601152,
+            "byteLength": 140544,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90741696,
+            "byteLength": 140544,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90882240,
+            "byteLength": 93696,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 90975936,
+            "byteLength": 70272,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 91046208,
+            "byteLength": 56832,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 91103040,
+            "byteLength": 56832,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 91159872,
+            "byteLength": 37888,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 91197760,
+            "byteLength": 28416,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 91226176,
+            "uri": "plant2_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000014838847164355684,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "ficus_baseColor",
+            "uri": "plant2_images/ficus_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_image",
+            "uri": "plant2_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "ficus_normal",
+            "uri": "plant2_images/ficus_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "trunk_baseColor",
+            "uri": "plant2_images/trunk_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_image_0",
+            "uri": "plant2_images/image_image_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "trunk_normal",
+            "uri": "plant2_images/trunk_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image_image_1",
+            "uri": "plant2_images/image_image_1.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "cement_grout_brushed_normal",
+            "uri": "plant2_images/cement_grout_brushed_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "grunt_baseColor",
+            "uri": "plant2_images/grunt_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_image_2",
+            "uri": "plant2_images/image_image_2.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "grunt_normal",
+            "uri": "plant2_images/grunt_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "ficus_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicRoughnessTexture": {
+                    "index": 4
+                }
+            },
+            "normalTexture": {
+                "index": 5
+            },
+            "name": "trunk_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.12743769586086274,
+                    0.1384316235780716,
+                    0.1778884083032608,
+                    1.0
+                ],
+                "metallicRoughnessTexture": {
+                    "index": 6
+                }
+            },
+            "normalTexture": {
+                "index": 7
+            },
+            "name": "セメント",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 8
+                },
+                "metallicRoughnessTexture": {
+                    "index": 9
+                }
+            },
+            "normalTexture": {
+                "index": 10
+            },
+            "name": "grunt_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "leaves",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "branches",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "clay",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "trunk",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 14,
+                        "NORMAL": 13,
+                        "POSITION": 12
+                    },
+                    "indices": 15,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "grunt",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 16,
+                        "NORMAL": 17,
+                        "TEXCOORD_0": 18
+                    },
+                    "indices": 19,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6
+            ],
+            "translation": [
+                2.2737367036103439e-15,
+                0.0,
+                0.0
+            ],
+            "scale": [
+                0.2773174047470093,
+                0.2773174047470093,
+                0.2773174047470093
+            ],
+            "name": "vaseFlowerBig"
+        },
+        {
+            "mesh": 0,
+            "name": "leaves"
+        },
+        {
+            "mesh": 1,
+            "name": "branches"
+        },
+        {
+            "mesh": 2,
+            "name": "clay"
+        },
+        {
+            "mesh": 3,
+            "name": "trunk"
+        },
+        {
+            "mesh": 4,
+            "name": "grunt"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "ficus_Mat::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image_image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "ficus_Mat::normal::image",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "trunk_Mat::baseColor::image",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "image_image",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "trunk_Mat::normal::image",
+            "sampler": 5,
+            "source": 5
+        },
+        {
+            "name": "image_image",
+            "sampler": 6,
+            "source": 6
+        },
+        {
+            "name": "cement_grout_brushed_material::normal::image",
+            "sampler": 7,
+            "source": 7
+        },
+        {
+            "name": "grunt_Mat::baseColor::image",
+            "sampler": 8,
+            "source": 8
+        },
+        {
+            "name": "image_image",
+            "sampler": 9,
+            "source": 9
+        },
+        {
+            "name": "grunt_Mat::normal::image",
+            "sampler": 10,
+            "source": 10
+        }
+    ],
+    "scene": 0
+}

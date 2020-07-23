@@ -1,0 +1,41 @@
+  <!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>A-Frame Demo 3</title>
+	<script src="aframe.min.js"></script>
+</head>
+<body>
+
+<!-- シーン -->
+<a-scene>
+	<a-camera position="0 1.67 0">
+		<a-cursor position="0 0 -0.5" scale="0.5 0.5 0.5"></a-cursor>
+	</a-camera>
+
+	<a-cylinder color="grey" height="2" radius="2" position="0 0 0" scale="1 1 1" ></a-cylinder>
+	<a-circle src="#arrow" position="0.105 1.690 -0.632" rotation="0 0 0" radius="0.025"></a-circle>
+	<a-circle src="#arrow" position="0.397 1.690 -0.490" rotation="0 -33 0" radius="0.025"></a-circle>
+	<a-circle src="#arrow" position="-0.21 1.690 -0.52" rotation="0 24 0" radius="0.025"></a-circle>
+
+	<!-- 素材 -->
+	<a-assets>
+		<a-asset-item id="kalla-mtl" src="kalla.mtl"></a-asset-item>
+		<a-asset-item id="kalla" src="kalla.gltf"></a-asset-item>
+
+		<a-asset-item id="shelving" src="shelving.gltf"></a-asset-item>
+
+		<img id="arrow" src="arrow.png">
+	</a-assets>
+	
+	
+
+	<!-- 3Dモデル -->
+	<a-entity gltf-model="#kalla" position="0.310 1.46 -0.5" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#shelving" position="-0.3 1.46 -0.5" rotation="0 0 0"></a-entity>
+
+	<!-- 背景 -->
+	<a-sky color="#fafafa"></a-sky>
+</a-scene>
+</body>
+</html>

@@ -1,0 +1,56 @@
+newmtl plant_Mat
+illum 7
+Kd 0.388235 0.580392 0.388235
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm glo/plant_Mat_metallic.png
+adobe_translucence 0
+map_Pr glo/plant_Mat_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_map_glow glo/plant_Mat_glow.png
+norm glo/plant_Mat_normal.png
+map_d glo/plant_Mat_opacity.png
+
+newmtl petals_Mat
+illum 7
+Kd 0.878431 0.458824 0.662745
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm glo/petals_Mat_metallic.png
+adobe_translucence 0
+map_Pr glo/petals_Mat_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_map_glow glo/petals_Mat_glow.png
+norm glo/petals_Mat_normal.png
+map_d glo/petals_Mat_opacity.png
+
+newmtl plant_Mat 2
+illum 7
+Kd 0.721569 0.682353 0.164706
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm glo/plant_Mat_metallic 2.png
+adobe_translucence 0
+map_Pr glo/plant_Mat_roughness 2.png
+Ns 16
+Ks 1 1 1
+adobe_map_glow glo/plant_Mat_glow 2.png
+norm glo/plant_Mat_normal 2.png
+map_d glo/plant_Mat_opacity 2.png

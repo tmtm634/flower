@@ -1,0 +1,38 @@
+newmtl plant_Mat
+illum 7
+Kd 0 0 0
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm kalla/plant_Mat_metallic.png
+adobe_translucence 0
+map_Pr kalla/plant_Mat_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_map_glow kalla/plant_Mat_glow.png
+map_Kd kalla/plant_Mat_baseColor.png
+norm kalla/plant_Mat_normal.png
+map_d kalla/plant_Mat_opacity.png
+
+newmtl ceramic_Mat
+illum 7
+Kd 0.4 0.4 0.470588
+adobe_interior_color 1 1 1
+Ni 1.45
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm kalla/ceramic_Mat_metallic.png
+adobe_translucence 0
+map_Pr kalla/ceramic_Mat_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_map_glow kalla/ceramic_Mat_glow.png
+norm kalla/ceramic_Mat_normal.png
+map_d kalla/ceramic_Mat_opacity.png

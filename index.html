@@ -1,0 +1,78 @@
+  <!DOCTYPE html>
+<html lang="ja">
+<head>
+	<meta charset="UTF-8">
+	<title>A-Frame Demo 3</title>
+	<script src="aframe.min.js"></script>
+</head>
+<body>
+
+<!-- シーン -->
+<a-scene>
+	<a-camera position="0 1.67 0">
+		<a-cursor position="0 0 -0.5" scale="0.5 0.5 0.5"></a-cursor>
+	</a-camera>
+<!--	<a-circle src="#arrow" position="0.105 1.690 -0.632" rotation="0 0 0" radius="0.025"></a-circle> -->
+	
+	<!-- 素材 -->
+	<a-assets>
+		<!-- 花 -->
+		<a-asset-item id="kalla-mtl" src="models/kalla.mtl"></a-asset-item>
+		<a-asset-item id="kalla" src="models/kalla.gltf"></a-asset-item>
+		<a-asset-item id="rose" src="models/rose.gltf"></a-asset-item>
+		<a-asset-item id="kalla_cube" src="models/kalla_cube.gltf"></a-asset-item>
+		<a-asset-item id="sun" src="models/sun.gltf"></a-asset-item>
+		<a-asset-item id="pink_chu" src="models/pink_chu.gltf"></a-asset-item>
+		<a-asset-item id="ans" src="models/ans.gltf"></a-asset-item>
+		<a-asset-item id="gerbera" src="models/gerbera.gltf"></a-asset-item>
+		<a-asset-item id="lily" src="models/lily.gltf"></a-asset-item>
+		<a-asset-item id="narci" src="models/narci.gltf"></a-asset-item>
+		<a-asset-item id="apple" src="models/apple.gltf"></a-asset-item>
+		<a-asset-item id="plant" src="models/plant.gltf"></a-asset-item>
+		<a-asset-item id="rose2" src="models/rose2.gltf"></a-asset-item>
+		<a-asset-item id="plant2" src="models/plant2.gltf"></a-asset-item>
+		<a-asset-item id="plant3" src="models/plant3.gltf"></a-asset-item>
+		<a-asset-item id="plant4" src="models/plant4.gltf"></a-asset-item>
+
+		<!-- 棚 -->
+		<a-asset-item id="shelving" src="models/shelving.gltf"></a-asset-item>
+		<a-asset-item id="shelving2" src="models/shelving2.gltf"></a-asset-item>
+
+        <img id="white" src="models/white.png">     <!-- 背景のテクスチャ -->
+        <img id="wall" src="models/wall.png">     <!-- 床のテクスチャ -->
+
+		<img id="arrow" src="models/arrow.png">
+	</a-assets>
+
+	<a-box src="#wall" width="2"  depth="2" position="0 0.45 0" position="0 0 0" scale="1 1 1"></a-box>
+
+
+
+	<!-- 3Dモデル -->
+	<a-entity gltf-model="#kalla" position="0.127 1.38 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#rose" position="-0.468 1.60 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#kalla_cube" position="-0.035 1.60 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#sun" position="0.4 1.40 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#pink_chu" position="-0.84 1.443 -0.87" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#ans" position="-0.27 1.83 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#gerbera" position="-0.13 1.83 -0.92" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#lily" position="-0.68 1.457 -0.84" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#narci" position="0.014 1.83 -0.9" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#apple" position="0.174 1.83 -0.9" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#plant" position="-0.235 1.606 -0.9" scale="0.73 0.73 0.73"></a-entity>
+	<a-entity gltf-model="#plant2" position="0.76 0.96 -0.87" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#rose2" position="-0.84 1.49 -0.157" rotation="0 270 0"></a-entity>
+	<a-entity gltf-model="#plant3" position="-0.84 0.96 -0.57" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#plant4" position="-0.49 1.436 -0.89" scalen="0 0.89 0"></a-entity>
+
+
+	<a-entity gltf-model="#shelving" position="-0.18 1.20 -0.94" rotation="0 0 0"></a-entity>
+	<a-entity gltf-model="#shelving2" position="-0.856 1.20 0.169" rotation="0 90 0"></a-entity>
+
+	<!-- 背景 -->
+	<a-sky src="#white" rotation="0 0 0"></a-sky>
+
+
+</a-scene>
+</body>
+</html>

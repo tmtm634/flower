@@ -1,0 +1,35 @@
+newmtl white_pink_tulip_RPT194860_flower_MatSG
+illum 7
+Kd 0.811765 0.776471 0.517647
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm 名称未設定/white_pink_tulip_RPT194860_flower_MatSG_metallic.png
+adobe_translucence 0
+map_Pr 名称未設定/white_pink_tulip_RPT194860_flower_MatSG_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm 名称未設定/white_pink_tulip_RPT194860_flower_MatSG_normal.png
+
+newmtl white_pink_tulip_RPT194860_stalk_MatSG
+illum 7
+Kd 0.356863 0.470588 0.243137
+adobe_interior_color 1 1 1
+Ni 1.6
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+map_Pm 名称未設定/white_pink_tulip_RPT194860_stalk_MatSG_metallic.png
+adobe_translucence 0
+map_Pr 名称未設定/white_pink_tulip_RPT194860_stalk_MatSG_roughness.png
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+norm 名称未設定/white_pink_tulip_RPT194860_stalk_MatSG_normal.png

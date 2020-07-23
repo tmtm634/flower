@@ -1,0 +1,634 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 42968,
+            "type": "VEC3",
+            "max": [
+                0.02082143910229206,
+                0.14190146327018739,
+                0.020214058458805085
+            ],
+            "min": [
+                -0.06452837586402893,
+                0.06365367770195008,
+                -0.033269040286540988
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 42968,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 42968,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 64452,
+            "type": "SCALAR",
+            "max": [
+                42967.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC3",
+            "max": [
+                0.03126667067408562,
+                0.1324591487646103,
+                0.054287929087877277
+            ],
+            "min": [
+                -0.014100919477641583,
+                0.04847698286175728,
+                0.000050809998356271538
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 65760,
+            "type": "SCALAR",
+            "max": [
+                43839.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC3",
+            "max": [
+                0.04557599872350693,
+                0.15251347422599793,
+                0.0030787501018494369
+            ],
+            "min": [
+                -0.0031689500901848079,
+                0.06624948978424072,
+                -0.04656649008393288
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 43840,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5126,
+            "count": 21144,
+            "type": "VEC3",
+            "max": [
+                0.05314444750547409,
+                0.08505725860595703,
+                0.04328878968954086
+            ],
+            "min": [
+                -0.033397089689970019,
+                0.016484729945659639,
+                -0.045768167823553088
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 21144,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 21144,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5125,
+            "count": 31716,
+            "type": "SCALAR",
+            "max": [
+                21143.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5126,
+            "count": 5952,
+            "type": "VEC3",
+            "max": [
+                0.05737750977277756,
+                0.05327952653169632,
+                0.05099230632185936
+            ],
+            "min": [
+                -0.04460711032152176,
+                0.008675890043377877,
+                -0.050992321223020557
+            ]
+        },
+        {
+            "bufferView": 16,
+            "componentType": 5126,
+            "count": 5952,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 17,
+            "componentType": 5126,
+            "count": 5952,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 18,
+            "componentType": 5125,
+            "count": 8928,
+            "type": "SCALAR",
+            "max": [
+                5951.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 19,
+            "componentType": 5126,
+            "count": 24832,
+            "type": "VEC3",
+            "max": [
+                0.06452837586402893,
+                0.10212071239948273,
+                0.058143217116594318
+            ],
+            "min": [
+                -0.05175803229212761,
+                0.0,
+                -0.058143217116594318
+            ]
+        },
+        {
+            "bufferView": 20,
+            "componentType": 5126,
+            "count": 24832,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 21,
+            "componentType": 5126,
+            "count": 24832,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 22,
+            "componentType": 5125,
+            "count": 37248,
+            "type": "SCALAR",
+            "max": [
+                24831.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 515616,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 515616,
+            "byteLength": 515616,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1031232,
+            "byteLength": 343744,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1374976,
+            "byteLength": 257808,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1632784,
+            "byteLength": 526080,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2158864,
+            "byteLength": 526080,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2684944,
+            "byteLength": 350720,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3035664,
+            "byteLength": 263040,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3298704,
+            "byteLength": 526080,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3824784,
+            "byteLength": 526080,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4350864,
+            "byteLength": 350720,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4701584,
+            "byteLength": 253728,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4955312,
+            "byteLength": 253728,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5209040,
+            "byteLength": 169152,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5378192,
+            "byteLength": 126864,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5505056,
+            "byteLength": 71424,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5576480,
+            "byteLength": 71424,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5647904,
+            "byteLength": 47616,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5695520,
+            "byteLength": 35712,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5731232,
+            "byteLength": 297984,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6029216,
+            "byteLength": 297984,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6327200,
+            "byteLength": 198656,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6525856,
+            "byteLength": 148992,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 6674848,
+            "uri": "kalla_cube_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "plant_Mat_baseColor",
+            "uri": "kalla_cube_images/plant_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image",
+            "uri": "kalla_cube_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "plant_Mat_normal",
+            "uri": "kalla_cube_images/plant_Mat_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "water_Mat_normal",
+            "uri": "kalla_cube_images/water_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "plant_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "normalTexture": {
+                "index": 3
+            },
+            "alphaMode": "BLEND",
+            "name": "water_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "callas_02",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "callas_01",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "callas_03",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 7,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "stems",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 13,
+                        "NORMAL": 12,
+                        "POSITION": 11
+                    },
+                    "indices": 14,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "water",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 15,
+                        "NORMAL": 16,
+                        "TEXCOORD_0": 17
+                    },
+                    "indices": 18,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "bowl",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 19,
+                        "NORMAL": 20,
+                        "TEXCOORD_0": 21
+                    },
+                    "indices": 22,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "name": "callas_01"
+        },
+        {
+            "mesh": 0,
+            "name": "callas_02"
+        },
+        {
+            "mesh": 1,
+            "name": "callas_01"
+        },
+        {
+            "mesh": 2,
+            "name": "callas_03"
+        },
+        {
+            "mesh": 3,
+            "name": "stems"
+        },
+        {
+            "mesh": 4,
+            "name": "water"
+        },
+        {
+            "mesh": 5,
+            "name": "bowl"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "plant_Mat::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "plant_Mat::normal::image",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "water_Mat::normal::image",
+            "sampler": 3,
+            "source": 3
+        }
+    ],
+    "scene": 0
+}

@@ -1,0 +1,218 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 12480,
+            "type": "VEC3",
+            "max": [
+                0.7502133250236511,
+                0.9348732829093933,
+                0.14399398863315583
+            ],
+            "min": [
+                -0.7502133250236511,
+                0.0,
+                -0.14399398863315583
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 12480,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 12480,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 18720,
+            "type": "SCALAR",
+            "max": [
+                12479.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 149760,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 149760,
+            "byteLength": 149760,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 299520,
+            "byteLength": 99840,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 399360,
+            "byteLength": 74880,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 474240,
+            "uri": "shelving2_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.00003582291537895799,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "basecolor_image_texture",
+            "uri": "shelving2_images/basecolor_image_texture.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "roughness",
+            "uri": "shelving2_images/roughness.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture",
+            "uri": "shelving2_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "寄木張り",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "shelf_1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.4292556345462799,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                -0.4674365520477295,
+                0.7502131462097168,
+                0.0
+            ],
+            "rotation": [
+                0.0,
+                0.0,
+                -0.7071067690849304,
+                0.7071067690849304
+            ],
+            "scale": [
+                0.9999998211860657,
+                0.9999998211860657,
+                1.0
+            ],
+            "mesh": 0,
+            "name": "shelf_1"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "tmp_image_pie_2160_604f_b68b",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "roughness",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "tmp_image_pie_5219_6d16_ed6e",
+            "sampler": 2,
+            "source": 2
+        }
+    ],
+    "scene": 0
+}

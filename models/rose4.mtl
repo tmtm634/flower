@@ -1,0 +1,50 @@
+newmtl rose_Mat
+illum 7
+Kd 0.215686 0.321569 0.192157
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl rose_Mat 2
+illum 7
+Kd 0.345098 0.6 0.286275
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0
+
+newmtl rose_Mat 2 3
+illum 7
+Kd 0.611765 0.239216 0.34902
+adobe_interior_color 1 1 1
+Ni 1.5
+adobe_density 0
+Tr 0
+d 1
+Ka 0 0 0
+Ke 0 0 0
+Pm 0
+adobe_translucence 0
+Pr 0.6
+Ns 16
+Ks 1 1 1
+adobe_glow 0

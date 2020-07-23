@@ -1,0 +1,419 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 491008,
+            "type": "VEC3",
+            "max": [
+                0.035913340747356418,
+                0.20537646114826203,
+                0.035986900329589847
+            ],
+            "min": [
+                -0.035913340747356418,
+                0.0,
+                -0.035986900329589847
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 491008,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 491008,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 736512,
+            "type": "SCALAR",
+            "max": [
+                491007.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3",
+            "max": [
+                0.03500000014901161,
+                0.21035774052143098,
+                0.03500000014901161
+            ],
+            "min": [
+                -0.03500000014901161,
+                0.0,
+                -0.03500000014901161
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 15252,
+            "type": "SCALAR",
+            "max": [
+                2778.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3",
+            "max": [
+                0.09999998658895493,
+                0.19999997317790986,
+                0.09999998658895493
+            ],
+            "min": [
+                -0.09999998658895493,
+                0.0,
+                -0.09999998658895493
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 14112,
+            "type": "SCALAR",
+            "max": [
+                14111.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 5892096,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5892096,
+            "byteLength": 5892096,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 11784192,
+            "byteLength": 3928064,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 15712256,
+            "byteLength": 2946048,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18658304,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18691652,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18725000,
+            "byteLength": 22232,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18747232,
+            "byteLength": 61008,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18808240,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 18977584,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 19146928,
+            "byteLength": 112896,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 19259824,
+            "byteLength": 56448,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 19316272,
+            "uri": "gerbera_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "gerbera_Mat_baseColor",
+            "uri": "gerbera_images/gerbera_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image",
+            "uri": "gerbera_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "gerbera_Mat_normal",
+            "uri": "gerbera_images/gerbera_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "gerbera_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "glass_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "gerbera",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "b_vase_2_170 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "-E5-86-86-E6-9F-B1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                0.0,
+                0.008875885047018528,
+                0.0
+            ],
+            "mesh": 0,
+            "name": "gerbera"
+        },
+        {
+            "children": [
+                3,
+                4
+            ],
+            "translation": [
+                0.013888680376112461,
+                0.0,
+                0.02556132711470127
+            ],
+            "name": "kalla"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132711470127
+            ],
+            "scale": [
+                0.6228039860725403,
+                0.6228039860725403,
+                0.6228039860725403
+            ],
+            "mesh": 1,
+            "name": "b_vase_2_170 2"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132897734642
+            ],
+            "scale": [
+                0.20000000298023225,
+                0.20000000298023225,
+                0.20000000298023225
+            ],
+            "mesh": 2,
+            "name": "円柱"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "gerbera_Mat::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "gerbera_Mat::normal::image",
+            "sampler": 2,
+            "source": 2
+        }
+    ],
+    "scene": 0
+}

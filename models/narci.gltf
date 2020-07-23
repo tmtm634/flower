@@ -1,0 +1,425 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 122958,
+            "type": "VEC3",
+            "max": [
+                0.05698173865675926,
+                0.40962713956832888,
+                0.0625273659825325
+            ],
+            "min": [
+                -0.05698173865675926,
+                0.0,
+                -0.0625273659825325
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 122958,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 122958,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 184050,
+            "type": "SCALAR",
+            "max": [
+                122957.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3",
+            "max": [
+                0.03500000014901161,
+                0.21035774052143098,
+                0.03500000014901161
+            ],
+            "min": [
+                -0.03500000014901161,
+                0.0,
+                -0.03500000014901161
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 15252,
+            "type": "SCALAR",
+            "max": [
+                2778.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3",
+            "max": [
+                0.09999998658895493,
+                0.19999997317790986,
+                0.09999998658895493
+            ],
+            "min": [
+                -0.09999998658895493,
+                0.0,
+                -0.09999998658895493
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 14112,
+            "type": "SCALAR",
+            "max": [
+                14111.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 1475496,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1475496,
+            "byteLength": 1475496,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2950992,
+            "byteLength": 983664,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3934656,
+            "byteLength": 736200,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4670856,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4704204,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4737552,
+            "byteLength": 22232,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4759784,
+            "byteLength": 61008,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4820792,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4990136,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5159480,
+            "byteLength": 112896,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 5272376,
+            "byteLength": 56448,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 5328824,
+            "uri": "narci_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "image_image",
+            "uri": "narci_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image",
+            "uri": "narci_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "narcissus_Mat_normal",
+            "uri": "narci_images/narcissus_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "alphaMode": "BLEND",
+            "name": "narcissus_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "glass_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "narcissus",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "b_vase_2_170 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "-E5-86-86-E6-9F-B1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 8,
+                        "NORMAL": 9,
+                        "TEXCOORD_0": 10
+                    },
+                    "indices": 11,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.47276824712753298
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                0.0,
+                0.011902665719389916,
+                0.010850293561816216
+            ],
+            "scale": [
+                0.6106061339378357,
+                0.6106061339378357,
+                0.6106061339378357
+            ],
+            "mesh": 0,
+            "name": "narcissus"
+        },
+        {
+            "children": [
+                3,
+                4
+            ],
+            "translation": [
+                0.013888680376112461,
+                0.0,
+                -0.0016704249428585172
+            ],
+            "name": "kalla"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132711470127
+            ],
+            "scale": [
+                0.6228039860725403,
+                0.6228039860725403,
+                0.6228039860725403
+            ],
+            "mesh": 1,
+            "name": "b_vase_2_170 2"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132897734642
+            ],
+            "scale": [
+                0.20000000298023225,
+                0.20000001788139344,
+                0.20000000298023225
+            ],
+            "mesh": 2,
+            "name": "円柱"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "image_image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "narcissus_Mat::normal::image",
+            "sampler": 2,
+            "source": 2
+        }
+    ],
+    "scene": 0
+}

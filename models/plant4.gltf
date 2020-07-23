@@ -1,0 +1,341 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 6656,
+            "type": "VEC3",
+            "max": [
+                0.03883877024054527,
+                0.0926210880279541,
+                0.03891284018754959
+            ],
+            "min": [
+                -0.036593347787857059,
+                0.0,
+                -0.03651928901672363
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 6656,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 6656,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 9984,
+            "type": "SCALAR",
+            "max": [
+                6655.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 191376,
+            "type": "VEC3",
+            "max": [
+                0.03652992844581604,
+                0.1498604714870453,
+                0.037334028631448749
+            ],
+            "min": [
+                -0.03883877024054527,
+                0.008064060471951962,
+                -0.03891284018754959
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 191376,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 191376,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 287064,
+            "type": "SCALAR",
+            "max": [
+                191375.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 79872,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 79872,
+            "byteLength": 79872,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 159744,
+            "byteLength": 53248,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 212992,
+            "byteLength": 39936,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 252928,
+            "byteLength": 2296512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2549440,
+            "byteLength": 2296512,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4845952,
+            "byteLength": 1531008,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6376960,
+            "byteLength": 1148256,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 7525216,
+            "uri": "plant4_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "pot_Mat_baseColor",
+            "uri": "plant4_images/pot_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image",
+            "uri": "plant4_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "pot_Mat_normal",
+            "uri": "plant4_images/pot_Mat_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image_image",
+            "uri": "plant4_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "image_0",
+            "uri": "plant4_images/image_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "leaves_Mat_normal",
+            "uri": "plant4_images/leaves_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "pot_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 4
+                }
+            },
+            "normalTexture": {
+                "index": 5
+            },
+            "alphaMode": "MASK",
+            "name": "leaves_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "pot",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "leaves",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3
+            ],
+            "name": "plant_02"
+        },
+        {
+            "mesh": 0,
+            "name": "pot"
+        },
+        {
+            "mesh": 1,
+            "name": "leaves"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "pot_Mat::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "pot_Mat::normal::image",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "image_image",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "image",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "leaves_Mat::normal::image",
+            "sampler": 5,
+            "source": 5
+        }
+    ],
+    "scene": 0
+}

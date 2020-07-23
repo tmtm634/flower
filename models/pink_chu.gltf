@@ -1,0 +1,694 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 194344,
+            "type": "VEC3",
+            "max": [
+                0.05469122901558876,
+                0.2366701066493988,
+                0.045887451618909839
+            ],
+            "min": [
+                -0.05469122901558876,
+                0.14283597469329835,
+                -0.045887451618909839
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 194344,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 194344,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 291516,
+            "type": "SCALAR",
+            "max": [
+                194343.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 1704,
+            "type": "VEC3",
+            "max": [
+                0.01024909969419241,
+                0.15292507410049439,
+                0.010160179808735848
+            ],
+            "min": [
+                -0.014411489479243756,
+                0.0,
+                -0.0032609598711133005
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 1704,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 1704,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 2472,
+            "type": "SCALAR",
+            "max": [
+                1703.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5126,
+            "count": 20124,
+            "type": "VEC3",
+            "max": [
+                0.012093729339540005,
+                0.19910547137260438,
+                0.013014750555157662
+            ],
+            "min": [
+                -0.0059880600310862068,
+                0.15741726756095887,
+                -0.0032490899320691826
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5126,
+            "count": 20124,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5126,
+            "count": 20124,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5125,
+            "count": 29334,
+            "type": "SCALAR",
+            "max": [
+                20123.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3",
+            "max": [
+                0.03500000014901161,
+                0.21035774052143098,
+                0.03500000014901161
+            ],
+            "min": [
+                -0.03500000014901161,
+                0.0,
+                -0.03500000014901161
+            ]
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5126,
+            "count": 2779,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 15252,
+            "type": "SCALAR",
+            "max": [
+                2778.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 16,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3",
+            "max": [
+                0.09999998658895493,
+                0.19999997317790986,
+                0.09999998658895493
+            ],
+            "min": [
+                -0.09999998658895493,
+                0.0,
+                -0.09999998658895493
+            ]
+        },
+        {
+            "bufferView": 17,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 18,
+            "componentType": 5126,
+            "count": 14112,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 19,
+            "componentType": 5125,
+            "count": 14112,
+            "type": "SCALAR",
+            "max": [
+                14111.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 2332128,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2332128,
+            "byteLength": 2332128,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 4664256,
+            "byteLength": 1554752,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6219008,
+            "byteLength": 1166064,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7385072,
+            "byteLength": 20448,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7405520,
+            "byteLength": 20448,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7425968,
+            "byteLength": 13632,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7439600,
+            "byteLength": 9888,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7449488,
+            "byteLength": 241488,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7690976,
+            "byteLength": 241488,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 7932464,
+            "byteLength": 160992,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8093456,
+            "byteLength": 117336,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8210792,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8244140,
+            "byteLength": 33348,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8277488,
+            "byteLength": 22232,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8299720,
+            "byteLength": 61008,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8360728,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8530072,
+            "byteLength": 169344,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8699416,
+            "byteLength": 112896,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8812312,
+            "byteLength": 56448,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 8868760,
+            "uri": "pink_chu_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "white_pink_tulip_RPT194860_flower_Mat_baseColor",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_flower_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image",
+            "uri": "pink_chu_images/image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_flower_Mat_normal",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_flower_Mat_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_stalk_Mat_baseColor",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_stalk_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_0",
+            "uri": "pink_chu_images/image_0.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_stalk_Mat_normal",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_stalk_Mat_normal.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_pith_Mat_baseColor",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_pith_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_1",
+            "uri": "pink_chu_images/image_1.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_pith_Mat_normal",
+            "uri": "pink_chu_images/white_pink_tulip_RPT194860_pith_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "white_pink_tulip_RPT194860_flower_MatSG",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 4
+                }
+            },
+            "normalTexture": {
+                "index": 5
+            },
+            "name": "white_pink_tulip_RPT194860_stalk_MatSG",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 6
+                },
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 7
+                }
+            },
+            "normalTexture": {
+                "index": 8
+            },
+            "name": "white_pink_tulip_RPT194860_pith_MatSG",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "glass_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "white_pink_tulip_RPT194860_flower",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_stalk",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_pith",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 10,
+                        "NORMAL": 9,
+                        "POSITION": 8
+                    },
+                    "indices": 11,
+                    "material": 2
+                }
+            ]
+        },
+        {
+            "name": "b_vase_2_170 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 14,
+                        "NORMAL": 13,
+                        "POSITION": 12
+                    },
+                    "indices": 15,
+                    "material": 3
+                }
+            ]
+        },
+        {
+            "name": "-E5-86-86-E6-9F-B1",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 16,
+                        "NORMAL": 17,
+                        "TEXCOORD_0": 18
+                    },
+                    "indices": 19,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4
+            ],
+            "translation": [
+                0.0,
+                0.020295485854148866,
+                0.0
+            ],
+            "scale": [
+                1.0673807859420777,
+                1.0673807859420777,
+                1.0673807859420777
+            ],
+            "name": "white_pink_tulip_RPT194860"
+        },
+        {
+            "mesh": 0,
+            "name": "white_pink_tulip_RPT194860_flower"
+        },
+        {
+            "mesh": 1,
+            "name": "white_pink_tulip_RPT194860_stalk"
+        },
+        {
+            "mesh": 2,
+            "name": "white_pink_tulip_RPT194860_pith"
+        },
+        {
+            "children": [
+                6,
+                7
+            ],
+            "translation": [
+                0.013888680376112461,
+                0.0,
+                0.02556132711470127
+            ],
+            "name": "kalla"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132711470127
+            ],
+            "scale": [
+                0.6228039860725403,
+                0.6228039860725403,
+                0.6228039860725403
+            ],
+            "mesh": 3,
+            "name": "b_vase_2_170 2"
+        },
+        {
+            "translation": [
+                -0.013888680376112461,
+                0.0,
+                -0.02556132897734642
+            ],
+            "scale": [
+                0.20000000298023225,
+                0.20000000298023225,
+                0.20000000298023225
+            ],
+            "mesh": 4,
+            "name": "円柱"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                5
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "white_pink_tulip_RPT194860_flower_MatSG::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_flower_MatSG::normal::image",
+            "sampler": 2,
+            "source": 2
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_stalk_MatSG::baseColor::image",
+            "sampler": 3,
+            "source": 3
+        },
+        {
+            "name": "image",
+            "sampler": 4,
+            "source": 4
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_stalk_MatSG::normal::image",
+            "sampler": 5,
+            "source": 5
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_pith_MatSG::baseColor::image",
+            "sampler": 6,
+            "source": 6
+        },
+        {
+            "name": "image",
+            "sampler": 7,
+            "source": 7
+        },
+        {
+            "name": "white_pink_tulip_RPT194860_pith_MatSG::normal::image",
+            "sampler": 8,
+            "source": 8
+        }
+    ],
+    "scene": 0
+}

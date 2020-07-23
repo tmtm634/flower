@@ -1,0 +1,298 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 8555,
+            "type": "VEC3",
+            "max": [
+                0.05090899020433426,
+                0.2593604326248169,
+                0.047753628343343738
+            ],
+            "min": [
+                -0.06953637301921845,
+                0.0,
+                -0.07376604527235031
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 8555,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 8555,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 48708,
+            "type": "SCALAR",
+            "max": [
+                8554.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 62579,
+            "type": "VEC3",
+            "max": [
+                0.08753813803195954,
+                0.6035625338554382,
+                0.07376604527235031
+            ],
+            "min": [
+                -0.08753813803195954,
+                0.003438000101596117,
+                -0.054209887981414798
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 62579,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 62579,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 265464,
+            "type": "SCALAR",
+            "max": [
+                62578.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 102660,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 102660,
+            "byteLength": 102660,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 205320,
+            "byteLength": 68440,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 273760,
+            "byteLength": 194832,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 468592,
+            "byteLength": 750948,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1219540,
+            "byteLength": 750948,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1970488,
+            "byteLength": 500632,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 2471120,
+            "byteLength": 1061856,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 3532976,
+            "uri": "sun_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "a_flower_in_vase_171_flower_baseColor",
+            "uri": "sun_images/a_flower_in_vase_171_flower_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "a_flower_in_vase_171_normal",
+            "uri": "sun_images/a_flower_in_vase_171_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    1.0,
+                    1.0,
+                    0.25
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.0
+            },
+            "alphaMode": "BLEND",
+            "name": "glass_Mat",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.858299970626831
+            },
+            "normalTexture": {
+                "index": 1
+            },
+            "name": "a_flower_in_vase_171_flower_Mat",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "a_flower_in_vase_171_glass",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "a_flower_in_vase_171_flower",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3
+            ],
+            "scale": [
+                0.4970487356185913,
+                0.4970487356185913,
+                0.4970487356185913
+            ],
+            "name": "a_flower_in_vase_171"
+        },
+        {
+            "mesh": 0,
+            "name": "a_flower_in_vase_171_glass"
+        },
+        {
+            "mesh": 1,
+            "name": "a_flower_in_vase_171_flower"
+        }
+    ],
+    "samplers": [
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "a_flower_in_vase_171_flower_Mat::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "a_flower_in_vase_171_flower_Mat::normal::image",
+            "sampler": 1,
+            "source": 1
+        }
+    ],
+    "scene": 0
+}

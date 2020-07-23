@@ -1,0 +1,206 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - 5769982f30ff13dfba89076b81240843d8e6af81",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 251641,
+            "type": "VEC3",
+            "max": [
+                0.22535815834999085,
+                1.0793761014938355,
+                0.17997995018959046
+            ],
+            "min": [
+                -0.22535815834999085,
+                0.0,
+                -0.17997995018959046
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 251641,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 251641,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 376149,
+            "type": "SCALAR",
+            "max": [
+                251640.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 3019692,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 3019692,
+            "byteLength": 3019692,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 6039384,
+            "byteLength": 2013128,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 8052512,
+            "byteLength": 1504596,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 9557108,
+            "uri": "plant_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000010000000656873454,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "plant_planter_medium_Mat_baseColor",
+            "uri": "plant_images/plant_planter_medium_Mat_baseColor.jpg",
+            "mimeType": "image/jpeg"
+        },
+        {
+            "name": "image_image",
+            "uri": "plant_images/image_image.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "plant_planter_medium_Mat_normal",
+            "uri": "plant_images/plant_planter_medium_Mat_normal.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicRoughnessTexture": {
+                    "index": 1
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "plant_planter_medium_MatSG",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "plant_planter_medium",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                0.5,
+                0.29999998211860659,
+                0.5
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "scale": [
+                0.2130860537290573,
+                0.2130860537290573,
+                0.2130860537290573
+            ],
+            "mesh": 0,
+            "name": "plant_planter_medium"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "plant_planter_medium_MatSG::baseColor::image",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "image_image",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "plant_planter_medium_MatSG::normal::image",
+            "sampler": 2,
+            "source": 2
+        }
+    ],
+    "scene": 0
+}
